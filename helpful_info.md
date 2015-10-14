@@ -1,5 +1,8 @@
 ## Корисна інформація для вивчення Рубі
 
+### Потрібно знати
+1. [GitHub] (https://try.github.io)
+
 ### Необхідно почитати
 1. Технології WWW:
   * [Опис протоколу HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) Звернути особливу увагу на діалог і HTTP Verbs
