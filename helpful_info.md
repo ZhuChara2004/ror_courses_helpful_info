@@ -23,6 +23,7 @@
 * [Codeacademy] (https://www.codecademy.com/learn) непоганий сайт, присвячений вивченню програмування
 * [Hackdesign] (https://hackdesign.org/) уроки дизайну щотижня на email
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
-* [Відеозаписи курсів 2014-2015рр.](https://www.youtube.com/channel/UCxX64J0PGEa5psZvtYb6UFw/videos "Курси 2015-2016рр.")
+* [Installing VirtualBox guest additions ](http://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm)
+* (Під питанням) [Записи курсів 2014-2015рр.](https://www.youtube.com/channel/UCxX64J0PGEa5psZvtYb6UFw/videos "Курси 2015-2016рр.")
 
-##### Інформація може доповнюватися. Звичайно, це не всі джерела, якими можна і необхідно користуватися. Якщо є проблеми з англійською - [Google Translate] (https://translate.google.com)
+##### Інформація може доповнюватися. Якщо є проблеми з англійською - [Google Translate] (https://translate.google.com)
